@@ -15,7 +15,7 @@ pip install -r requirements.txt
 *** Create Syncmaps
 
 #+BEGIN_SRC
- python create_syncmap.py --audio-file <absolute_path_to_audio_file> --text-file <absolute_path_to_text_file> --syncmap-file syncmap.json
+ python -m aeneas.tools.execute_task <abs_path_to_audio_file> <abs_path_to_text_file> "tts=espeak-ng|os_task_file_format=json|is_text_type=plain|tts_path=/usr/bin/espeak-ng|task_language=asm|allow_unlisted_languages=True" syncmap.json -r="allow_unlisted_languages=True|tts=espeak-ng|tts_path=/usr/bin/espeak-ng" --verbose
 #+END_SRC
 
 *** Audio chunking
