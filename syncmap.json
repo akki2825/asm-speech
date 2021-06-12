@@ -1,0 +1,3954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "15.320",
+   "id": "f000001",
+   "language": "asm",
+   "lines": [
+    "\u09e7\u09f7 \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u09f0 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09cb \u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09a4\u09c7 \u09ac\u09cd\u09af\u09be\u09aa\u0995 \u0989\u099b\u09be\u09b9-\u0989\u09a6\u09cd\u09a6\u09c0\u09aa\u09a8\u09be\u0964 \u0986\u099c\u09bf \u09ae\u09be\u09a8\u09c1\u09b9 \u09ac\u09bf\u09b9\u09c1"
+   ]
+  },
+  {
+   "begin": "15.320",
+   "children": [],
+   "end": "15.320",
+   "id": "f000002",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "15.320",
+   "children": [],
+   "end": "26.760",
+   "id": "f000003",
+   "language": "asm",
+   "lines": [
+    "\u09e8\u09f7 \u09f0\u09be\u099c\u09cd\u09af\u09a4 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09bf\u09a8\u09c7 \u0995\u09f0'\u09a8\u09be\u09f0 \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09a3 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf\u0964 \u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u09e9\u09ee\u09eb\u099c\u09a8 \u09b2\u09cb\u0995 \u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4"
+   ]
+  },
+  {
+   "begin": "26.760",
+   "children": [],
+   "end": "26.760",
+   "id": "f000004",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "26.760",
+   "children": [],
+   "end": "30.840",
+   "id": "f000005",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09be\u09ae\u09f0\u09c2\u09aa \u09ae\u09b9\u09be\u09a8\u0997\u09f0 \u099c\u09bf\u09b2\u09be\u09a4\u09c7 \u09b8\u09f0\u09cd\u09ac\u09be\u09a7\u09bf\u0995 \u09e8\u09e6\u09e7\u09e7\u099c\u09a8 \u09b2\u09cb\u0995 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4\u0964"
+   ]
+  },
+  {
+   "begin": "30.840",
+   "children": [],
+   "end": "30.840",
+   "id": "f000006",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "30.840",
+   "children": [],
+   "end": "36.560",
+   "id": "f000007",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09c2\u09f0\u09cd\u09ac \u09a8\u09bf\u09f0\u09cd\u09a7\u09be\u09f0\u09bf\u09a4 \u09b8\u09c2\u099a\u09c0 \u0985\u09a8\u09c1\u09b8\u09f0\u09bf \u09b9\u09be\u0987\u09b8\u09cd\u0995\u09c1\u09b2 \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4 \u09b9'\u09ac \u09ac\u09c1\u09b2\u09bf \u099b\u09c7\u09ac\u09be\u09f0 \u0998\u09cb\u09b7\u09a3\u09be\u0964 \u0995\u09cb\u09f1\u09bf\u09a1"
+   ]
+  },
+  {
+   "begin": "36.560",
+   "children": [],
+   "end": "36.560",
+   "id": "f000008",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "36.560",
+   "children": [],
+   "end": "44.480",
+   "id": "f000009",
+   "language": "asm",
+   "lines": [
+    "\u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09f0\u09cd\u09a5\u09c0\u09f0 \u09ac\u09be\u09ac\u09c7 \u0986\u099b\u09c1\u09a4\u09c0\u09af\u09bc\u09be \u0995\u09cb\u09a0\u09be\u09f0 \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be\u0964"
+   ]
+  },
+  {
+   "begin": "44.480",
+   "children": [],
+   "end": "44.480",
+   "id": "f000010",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "44.480",
+   "children": [],
+   "end": "58.480",
+   "id": "f000011",
+   "language": "asm",
+   "lines": [
+    "\u09ea| \u09b6\u09a8\u09bf\u09ac\u09be\u09f0\u09c7 \u09b9'\u09ac\u09b2\u0997\u09c0\u09af\u09bc\u09be \u09aa\u09b6\u09cd\u099a\u09bf\u09ae\u09ac\u0982\u0997 \u09ac\u09bf\u09a7\u09be\u09a8\u09b8\u09ad\u09be\u09f0 \u09aa\u099e\u09cd\u099a\u09ae \u09aa\u09f0\u09cd\u09af\u09be\u09af\u09bc\u09f0 \u09a8\u09bf\u09f0\u09cd\u09ac\u09be\u099a\u09a8\u09f0 \u09ac\u09be\u09ac\u09c7 \u0995\u09be\u09b2\u09bf \u09aa\u09cd\u09b0\u099a\u09be\u09f0 \u0985\u09ad\u09bf\u09af\u09be\u09a8\u09f0"
+   ]
+  },
+  {
+   "begin": "58.480",
+   "children": [],
+   "end": "59.680",
+   "id": "f000012",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09be\u09ae\u09f0\u09a3\u09bf\u0964"
+   ]
+  },
+  {
+   "begin": "59.680",
+   "children": [],
+   "end": "59.680",
+   "id": "f000013",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "59.680",
+   "children": [],
+   "end": "60.320",
+   "id": "f000014",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09f0\u09c1"
+   ]
+  },
+  {
+   "begin": "60.320",
+   "children": [],
+   "end": "60.320",
+   "id": "f000015",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "60.320",
+   "children": [],
+   "end": "73.560",
+   "id": "f000016",
+   "language": "asm",
+   "lines": [
+    "\u099a\u09c7\u09a8\u09cd\u09a8\u09be\u0987\u09a4 \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4 \u0986\u0987 \u09aa\u09bf \u098f\u09b2\u09f0 \u0995\u09be\u09b2\u09bf\u09f0 \u098f\u0996\u09a8 \u0996\u09c7\u09b2\u09a4 \u099b\u09be\u09a8\u09f0\u09be\u0987\u099c\u09be\u09f0\u09cd\u099b \u09b9\u09be\u09af\u09bc\u09a6\u09f0\u09be\u09ac\u09be\u09a6\u09f0 \u09ac\u09bf\u09f0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09f0\u09af\u09bc\u09c7\u09b2"
+   ]
+  },
+  {
+   "begin": "73.560",
+   "children": [],
+   "end": "82.680",
+   "id": "f000017",
+   "language": "asm",
+   "lines": [
+    "\u099b\u09c7\u09b2\u09c7\u099e\u09cd\u099c\u09be\u09f0\u09cd\u099b \u09ac\u09be\u0982\u0997\u09be\u09b2\u09c1\u09f0\u09c1 \u09ec \u09f0\u09be\u09a8\u09a4 \u099c\u09af\u09bc\u09c0\u0964 \u0986\u099c\u09bf \u0996\u09c7\u09b2\u09a4 \u09f0\u09be\u099c\u09b8\u09cd\u09a5\u09be\u09a8 \u09f0\u09af\u09bc\u09c7\u09b2\u099b \u09a6\u09bf\u09af\u09bc\u09c0 \u0995\u09c7\u09aa\u09bf\u099f\u09c7\u09b2\u099b\u09f0 \u09ae\u09c1\u0996\u09be\u09ae\u09c1\u0996\u09bf\u0964"
+   ]
+  },
+  {
+   "begin": "82.680",
+   "children": [],
+   "end": "85.000",
+   "id": "f000018",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "85.000",
+   "children": [],
+   "end": "85.000",
+   "id": "f000019",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "85.000",
+   "children": [],
+   "end": "94.800",
+   "id": "f000020",
+   "language": "asm",
+   "lines": [
+    "\u0986\u099c\u09bf \u09aa\u09b9\u09bf\u09b2\u09be \u09ac'\u09b9\u09be\u0997\u0964 \u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be \u09a8\u09f1\u09ac\u09f0\u09cd\u09b7\u09f0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u099f\u09cb \u0985\u09b8\u09ae\u09f0 \u09f0\u09be\u0987\u099c\u09c7 \u0986\u099c\u09bf \u09ae\u09be\u09a8\u09c1\u09b9 \u09ac\u09bf\u09b9\u09c1 \u09b9\u09bf\u099a\u09be\u09aa\u09c7"
+   ]
+  },
+  {
+   "begin": "94.800",
+   "children": [],
+   "end": "109.160",
+   "id": "f000021",
+   "language": "asm",
+   "lines": [
+    "\u0989\u09a6\u09af\u09be\u09aa\u09a8 \u0995\u09f0\u09bf\u09ac\u0964 \u09b8\u09ae\u0997\u09cd\u09b0 \u09f0\u09be\u099c\u09cd\u09af\u09a4\u09c7 \u09b8\u09ae\u09cd\u09aa\u09cd\u09b0\u09a4\u09bf \u0995\u09cb\u09f1\u09bf\u09a1\u09b8\u09c3\u09b7\u09cd\u099f \u09aa\u09f0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf\u09f0 \u09ae\u09be\u099c\u09a4\u09c7 \u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be\u09f0 \u09aa\u09cd\u09b0\u09be\u09a3, \u099c\u09be\u09a4\u09bf\u09f0 \u09b8\u09cd\u09ac\u09be\u09ad\u09bf\u09ae\u09be\u09a8,"
+   ]
+  },
+  {
+   "begin": "109.160",
+   "children": [],
+   "end": "115.600",
+   "id": "f000022",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1\u09f0 \u0986\u09a8\u09a8\u09cd\u09a6\u09a4 \u09f0\u09be\u0987\u099c \u09ae\u09a4\u09b2\u09c0\u09af\u09bc\u09be \u09b9\u09cb\u09f1\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u09a2\u09cb\u09b2, \u09aa\u09c7\u0981\u09aa\u09be, \u0997\u0997\u09a3\u09be\u09f0 \u09ae\u09be\u09a4\u09c7\u09f0\u09c7 \u099a\u09cc\u09a6\u09bf\u09b6 \u09f0\u099c\u09a8-"
+   ]
+  },
+  {
+   "begin": "115.600",
+   "children": [],
+   "end": "121.640",
+   "id": "f000023",
+   "language": "asm",
+   "lines": [
+    "\u099c\u09a8\u09be\u0987\u099b\u09c7\u0964 \u0986\u099c\u09bf \u09aa\u09c1\u09f1\u09be\u0987 \u09ae\u09be\u09b9-\u09b9\u09be\u09b2\u09a7\u09bf \u09b8\u09be\u09a8\u09bf \u0997\u09be-\u09aa\u09be \u09a7\u09c1\u0987 \u0997\u09cc\u09b8\u09be\u0987 \u09b8\u09c7\u09f1\u09be \u0995\u09f0\u09bf \u09f0\u09be\u0987\u099c\u09c7 \u09ac\u099b\u09f0\u099f\u09cb\u09b2\u09c8 \u0998\u09f0\u0996\u09a8\u09f0"
+   ]
+  },
+  {
+   "begin": "121.640",
+   "children": [],
+   "end": "128.600",
+   "id": "f000024",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u0995\u09b2\u09cb\u099f\u09bf\u09f0\u09c7 \u09ae\u0982\u0997\u09b2 \u0995\u09be\u09ae\u09a8\u09be \u0995\u09f0\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u09a5\u09be\u09aa\u09a8\u09be\u09a4 \u09b6\u09f0\u09be\u0987 \u09a8\u09c8\u09ac\u09a6\u09cd\u09af \u0986\u0997\u09ac\u09a2\u09bc\u09be\u09ac\u0964 \u0995\u09a8\u09bf\u09b7\u09cd\u09a0\u099c\u09a8\u09c7 \u099c\u09cd\u09af\u09c7\u09b7\u09cd\u09a0\u099c\u09a8\u0995 \u09b8\u09c7\u09f1\u09be"
+   ]
+  },
+  {
+   "begin": "128.600",
+   "children": [],
+   "end": "134.760",
+   "id": "f000025",
+   "language": "asm",
+   "lines": [
+    "\u099c\u09a8\u09be\u0987 \u0986\u09b6\u09c0\u09f0\u09cd\u09ac\u09be\u09a6 \u09b2'\u09ac\u0964 \u0987\u099c\u09a8\u09c7 \u09b8\u09bf\u099c\u09a8\u0995 \u09ac\u09bf\u09b9\u09c1\u09f1\u09be\u09a8 \u0989\u09aa\u09b9\u09be\u09f0 \u09a6\u09bf \u09f0\u0999\u09be\u09b2\u09c0\u09f0 \u0986\u09a8\u09a8\u09cd\u09a6 \u0989\u09aa\u09ad\u09cb\u0997 \u0995\u09f0\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u099a\u09c1\u09ac\u09c1\u09f0\u09c0\u09f0"
+   ]
+  },
+  {
+   "begin": "134.760",
+   "children": [],
+   "end": "142.880",
+   "id": "f000026",
+   "language": "asm",
+   "lines": [
+    "\u0987\u0998\u09f0 \u09b8\u09bf\u0998\u09f0\u09b2\u09c8 \u0997\u09c8 \u09f0\u0999\u09be\u09b2\u09c0\u09f0 \u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be \u09ac\u09bf\u09a8\u09bf\u09ae\u09af\u09bc \u0995\u09f0\u09bf \u09b8\u0995\u09b2\u09cb\u09f1\u09c7 \u09ae\u09bf\u09b2\u09bf \u09aa\u09bf\u09a0\u09be-\u09aa\u09a8\u09be, \u099c\u09be-\u099c\u09b2\u09aa\u09be\u09a8 \u0996\u09be\u0987 \u09ac\u09bf\u09b9\u09c1\u09f0"
+   ]
+  },
+  {
+   "begin": "142.880",
+   "children": [],
+   "end": "149.480",
+   "id": "f000027",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09a8\u09a8\u09cd\u09a6 \u09b2'\u09ac\u0964 \u09b9\u09be\u09a4\u09a4 \u099c\u09c7\u09a4\u09c1\u0995\u09be\u09f0 \u09f0\u0982 \u09ac\u09c1\u09b2\u09be\u0987 \u099c\u09c0\u09af\u09bc\u09f0\u09c0 \u09ac\u09cb\u09f1\u09be\u09f0\u09c0\u09b9\u0981\u09a4\u09c7\u0993 \u09aa\u09f0\u09ae\u09cd\u09aa\u09f0\u09be \u09f0\u0995\u09cd\u09b7\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u098f\u09aa\u09be\u0995 \u09a8\u09be\u099a\u09bf\u09ac\u09f0 \u09ac\u09be\u09ac\u09c7"
+   ]
+  },
+  {
+   "begin": "149.480",
+   "children": [],
+   "end": "156.600",
+   "id": "f000028",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09be\u099c\u09c1 \u09b9\u09c8\u099b\u09c7\u0964 \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u0996\u09a8\u09f0 \u09a0\u09be\u09af\u09bc\u09c7 \u09a0\u09be\u09af\u09bc\u09c7 \u0995\u09cb\u09f1\u09bf\u09a1 \u09ac\u09bf\u09a7\u09bf\u09b8\u09ae\u09c2\u09b9 \u09ae\u09be\u09a8\u09bf \u099a\u09b2\u09bf \u09ae\u09c1\u0995\u09b2\u09bf \u09ac\u09bf\u09b9\u09c1 \u0986\u09f0\u09c1 \u09ae\u099e\u09cd\u099a"
+   ]
+  },
+  {
+   "begin": "156.600",
+   "children": [],
+   "end": "162.960",
+   "id": "f000029",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09bf\u09b9\u09c1 \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09be\u09a8\u09f0\u09cb \u0986\u09af\u09bc\u09cb\u099c\u09a8 \u0995\u09f0\u09be \u09b9\u09c8\u099b\u09c7\u0964 \u0997\u09cd\u09f0\u09be\u09ae\u09be\u099e\u09cd\u099a\u09b2\u09f0 \u09b9\u09c1\u099a\u09f0\u09bf \u09a6\u09b2\u09b8\u09ae\u09c2\u09b9\u09c7 \u0998\u09f0\u09c7 \u0998\u09f0\u09c7 \u0997\u09c8 \u0997\u09c3\u09b9\u09b8\u09cd\u09a5\u09f0 \u099a\u09cb\u09a4\u09be\u09b2\u09a4 \u0986\u09b6\u09c0\u09f0\u09cd\u09ac\u09be\u09a6"
+   ]
+  },
+  {
+   "begin": "162.960",
+   "children": [],
+   "end": "166.600",
+   "id": "f000030",
+   "language": "asm",
+   "lines": [
+    "\u09a6\u09bf\u09af\u09bc\u09be\u09f0 \u09aa\u09f0\u09ae\u09cd\u09aa\u09f0\u09be\u0993 \u0985\u099e\u09cd\u099a\u09b2 \u09ac\u09bf\u09b6\u09c7\u09b7\u09c7 \u09f0\u09be\u0987\u099c\u09c7 \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09bf\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "166.600",
+   "children": [],
+   "end": "166.600",
+   "id": "f000031",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "166.600",
+   "children": [],
+   "end": "170.840",
+   "id": "f000032",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09be\u099c\u09cd\u09af\u099c\u09c1\u09f0\u09bf \u0995\u09be\u09b2\u09bf \u09b8\u09be\u09a6\u09bf\u09a8\u09c0\u09af\u09bc\u09be \u09ac\u09bf\u09b9\u09c1\u09f0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u099f\u09cb \u0997\u09f0\u09c1 \u09ac\u09bf\u09b9\u09c1 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u09ad\u09be\u09b2\u09c7\u09ae\u09be\u09a8 \u0995\u09be\u09f0\u09cd\u09af\u09b8\u09c2\u099a\u09c0 \u0997\u09cd\u09f0\u09b9\u09a3 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964"
+   ]
+  },
+  {
+   "begin": "170.840",
+   "children": [],
+   "end": "183.120",
+   "id": "f000033",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09be\u09ae\u09f0\u09c2\u09aa \u099c\u09bf\u09b2\u09be\u09a4 \u0986\u099c\u09bf \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u099c\u09bf\u09b2\u09be\u0996\u09a8\u09f0 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09a4 \u09ae\u09c1\u0995\u09b2\u09bf \u09ac\u09bf\u09b9\u09c1\u09f0 \u0986\u09af\u09bc\u09cb\u099c\u09a8 \u0995\u09f0\u09be \u09b9\u09c8\u099b\u09c7"
+   ]
+  },
+  {
+   "begin": "183.120",
+   "children": [],
+   "end": "188.400",
+   "id": "f000034",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09c1\u09b2\u09bf \u0986\u09ae\u09be\u09f0 \u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be\u0987 \u099c\u09a8\u09be\u0987\u099b\u09c7\u0964 \u099c\u09bf\u09b2\u09be\u0996\u09a8\u09f0 \u09ac\u09be\u09b2\u09bf\u09b8\u09a4\u09cd\u09f0\u09a4 \u0995\u09be\u09b2\u09bf \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u099b\u09be\u09a4\u09cd\u09f0\u09b8\u09a8\u09cd\u09a5\u09be\u09f0 \u0989\u09a6\u09cd\u09af\u09cb\u0997\u09a4 \u09ac\u09b8\u09a8\u09cd\u09a4"
+   ]
+  },
+  {
+   "begin": "188.400",
+   "children": [],
+   "end": "196.680",
+   "id": "f000035",
+   "language": "asm",
+   "lines": [
+    "\u0989\u09ce\u09b8\u09f1 \u0986\u09af\u09bc\u09cb\u099c\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964 \u098f\u0987 \u0989\u09ce\u09b8\u09f1\u09f0 \u09b2\u0997\u09a4 \u09b8\u0982\u0997\u09a4\u09bf \u09f0\u09be\u0996\u09bf \u0996\u09c7\u09a4\u09bf\u09af\u09bc\u0995\u0995 \u09b8\u09ae\u09cd\u09ac\u09f0\u09cd\u09a7\u09a3\u09be \u099c\u09a8\u09cb\u09f1\u09be\u09f0 \u0989\u09aa\u09f0\u09bf\u0993 \u0996\u09c7\u09a4\u09bf\u09f0"
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000036",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000037",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000038",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000039",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000040",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000041",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000042",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000043",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "196.680",
+   "id": "f000044",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.680",
+   "children": [],
+   "end": "197.040",
+   "id": "f000045",
+   "language": "asm",
+   "lines": [
+    "\u0999"
+   ]
+  },
+  {
+   "begin": "197.040",
+   "children": [],
+   "end": "197.040",
+   "id": "f000046",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.040",
+   "children": [],
+   "end": "197.040",
+   "id": "f000047",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.040",
+   "children": [],
+   "end": "197.040",
+   "id": "f000048",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.040",
+   "children": [],
+   "end": "197.400",
+   "id": "f000049",
+   "language": "asm",
+   "lines": [
+    "\u09eb"
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000050",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000051",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000052",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000053",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000054",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000055",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000056",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000057",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000058",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000059",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000060",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000061",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000062",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000063",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000064",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000065",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000066",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000067",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000068",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000069",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000070",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000071",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000072",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000073",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000074",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000075",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000076",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000077",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000078",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000079",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000080",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000081",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000082",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000083",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000084",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000085",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000086",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000087",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000088",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "197.400",
+   "id": "f000089",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "197.400",
+   "children": [],
+   "end": "206.280",
+   "id": "f000090",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u099c\u09c1\u09b2\u09bf \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09f0\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u09a6\u09c1\u0996\u09c0\u09af\u09bc\u09be \u099b\u09be\u09a4\u09cd\u09b0-\u099b\u09be\u09a4\u09cd\u09a4\u09c0\u09f0 \u09ae\u09be\u099c\u09a4 \u0995\u09bf\u09a4\u09be\u09aa \u09ac\u09bf\u09a4\u09f0\u09a3 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964 \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09be\u09a8\u09a4 \u09ac\u09af\u09bc\u09cb\u099c\u09cd\u09af\u09c7\u09b7\u09cd\u09a0"
+   ]
+  },
+  {
+   "begin": "206.280",
+   "children": [],
+   "end": "219.320",
+   "id": "f000091",
+   "language": "asm",
+   "lines": [
+    "\u09a8\u09be\u0997\u09f0\u09bf\u0995\u09b8\u0995\u09b2\u09f0 \u09aa\u09f0\u09be \u0986\u09b6\u09c0\u09f0\u09cd\u09ac\u09be\u09a6 \u0997\u09cd\u09f0\u09b9\u09a3 \u0995\u09f0\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u099c\u09a8\u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u09af\u09bc \u09b2\u09cb\u0995\u09a8\u09c3\u09a4\u09cd\u09af \u09aa\u09cd\u09b0\u09a6\u09b0\u09cd\u09b6\u09a8 \u0986\u09f0\u09c1 \u09ae\u09c1\u0995\u09b2\u09bf \u09ac\u09bf\u09b9\u09c1"
+   ]
+  },
+  {
+   "begin": "219.320",
+   "children": [],
+   "end": "227.760",
+   "id": "f000092",
+   "language": "asm",
+   "lines": [
+    "\u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4 \u09b9\u09af\u09bc\u0964 \u0986\u099c\u09bf\u0993 \u09ac\u09b9\u09be\u0997\u09f0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u09f0\u0999\u09bf\u09af\u09bc\u09be \u09ae\u09b9\u0995\u09c1\u09ae\u09be\u09f0 \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1 \u09b8\u09a8\u09cd\u09ae\u09bf\u09b2\u09a8\u09c0 \u09a4\u09f0\u09ab\u09f0 \u09aa\u09f0\u09be \u09ac\u09bf\u09b6\u09bf\u09b7\u09cd\u099f"
+   ]
+  },
+  {
+   "begin": "227.760",
+   "children": [],
+   "end": "229.920",
+   "id": "f000093",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u0995 \u09b8\u09ae\u09cd\u09ac\u09f0\u09cd\u09a7\u09a3\u09be \u099c\u09a8\u09cb\u09f1\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u099c\u09cd\u09af\u09c7\u09b7\u09cd\u09a0\u099c\u09a8\u09f0 \u09aa\u09f0\u09be \u0986\u09b6\u09c0\u09f0\u09cd\u09ac\u09be\u09a6 \u0997\u09cd\u09f0\u09b9\u09a3 \u0995\u09f0\u09be \u09b9\u09ac\u0964"
+   ]
+  },
+  {
+   "begin": "229.920",
+   "children": [],
+   "end": "229.920",
+   "id": "f000094",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "229.920",
+   "children": [],
+   "end": "234.480",
+   "id": "f000095",
+   "language": "asm",
+   "lines": [
+    "\u0997\u09c1\u09f1\u09be\u09b9\u09be\u099f\u09c0 \u09ae\u09b9\u09be\u09a8\u0997\u09f0\u09c0\u09f0\u09cb \u09b2\u09a4\u09be\u09b6\u09bf\u09b2, \u099a\u09be\u09a8\u09ae\u09be\u09f0\u09c0, \u0997\u09a3\u09c7\u09b6\u0997\u09c1\u09f0\u09bf, \u0997\u09c0\u09a4\u09be\u09a8\u0997\u09f0 \u09ac\u09bf\u09b9\u09c1 \u09ae\u099e\u09cd\u099a\u09f0 \u09b2\u0997\u09a4\u09c7 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09a0\u09be\u0987\u09a4"
+   ]
+  },
+  {
+   "begin": "234.480",
+   "children": [],
+   "end": "239.280",
+   "id": "f000096",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09be\u09b2\u09bf \u09a8\u09bf\u09b6\u09be\u09b2\u09c8\u0995\u09c7 \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1\u09f0 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u0995\u09be\u09f0\u09cd\u09af\u09b8\u09c2\u099a\u09c0 \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964 \u0987\u09aa\u09bf\u09a8\u09c7, \u09f0\u09be\u099c\u09cd\u09af\u09f0 \u0985\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09af \u099c\u09bf\u09b2\u09be\u09b8\u09ae\u09c2\u09b9\u09a4\u09cb \u09ac\u09bf\u09b9\u09c1"
+   ]
+  },
+  {
+   "begin": "239.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000097",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09be\u09b2\u09a8\u09f0 \u09ac\u09be\u09a4\u09f0\u09bf \u0986\u09ae\u09be\u09b2\u09c8 \u0986\u09b9\u09bf \u0986\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000098",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000099",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000100",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000101",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000102",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000103",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000104",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000105",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000106",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000107",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "240.280",
+   "id": "f000108",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "240.280",
+   "children": [],
+   "end": "242.560",
+   "id": "f000109",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09eb\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "242.560",
+   "children": [],
+   "end": "242.560",
+   "id": "f000110",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "242.560",
+   "children": [],
+   "end": "249.600",
+   "id": "f000111",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09be\u09ae\u09f0\u09c2\u09aa \u099c\u09bf\u09b2\u09be\u09f0 \u0995\u09ae\u09b2\u09aa\u09c1\u09f0\u09a4 \u0986\u099c\u09bf\u09f0\u09c7 \u09aa\u09f0\u09be \u09a4\u09bf\u09a8\u09bf\u09a6\u09bf\u09a8\u09c0\u09af\u09bc\u09be \u09ac\u09f0\u09cd\u09a3\u09be\u09a2\u09cd\u09af \u0995\u09be\u09f0\u09cd\u09af\u09b8\u09c2\u099a\u09c0\u09f0\u09c7 \u09aa\u09f0\u09ae\u09cd\u09aa\u09f0\u09be\u0997\u09a4 \u09ad\u09a0\u09c7\u09b2\u09bf"
+   ]
+  },
+  {
+   "begin": "249.600",
+   "children": [],
+   "end": "255.000",
+   "id": "f000112",
+   "language": "asm",
+   "lines": [
+    "\u09ae\u09b9\u09cb\u09ce\u09b8\u09f1\u09f0 \u0986\u09af\u09bc\u09cb\u099c\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964 \u0997\u09cb\u09aa\u09be\u09b2 \u09b8\u09a8\u09be\u09a4\u09a8 \u09af\u09cb\u0997 \u0986\u09b6\u09cd\u09f0\u09ae\u09f0 \u0989\u09a6\u09cd\u09af\u09cb\u0997\u09a4 \u0986\u09af\u09bc\u09cb\u099c\u09bf\u09a4 \u098f\u0987 \u09ae\u09b9\u09cb\u09ce\u09b8\u09f1\u09f0 \u09b2\u0997\u09a4"
+   ]
+  },
+  {
+   "begin": "255.000",
+   "children": [],
+   "end": "263.120",
+   "id": "f000113",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u0982\u0997\u09a4\u09bf \u09f0\u09be\u0996\u09bf \u09aa\u09a4\u09be\u0995\u09be \u0989\u09a4\u09cd\u09a4\u09cb\u09b2\u09a8, \u09b8\u09cd\u09ae\u09c3\u09a4\u09bf \u09a4\u09f0\u09cd\u09aa\u09a3, \u09aa\u09be\u0993\u09f0\u09be \u0989\u09a4\u09cd\u09a4\u09cb\u09b2\u09a8, \u09ac\u09a8\u09cd\u09a4\u09bf \u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09b2\u09a8, \u09ad\u09be\u0997\u09f1\u09a4 \u09b6\u09cb\u09ad\u09be\u09af\u09be\u09a4\u09cd\u09f0\u09be, \u0997\u099b \u09aa\u09c1\u09b2\u09bf"
+   ]
+  },
+  {
+   "begin": "263.120",
+   "children": [],
+   "end": "270.000",
+   "id": "f000114",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09cb\u09aa\u09a8 \u0986\u09a6\u09bf \u0995\u09be\u09f0\u09cd\u09af\u09b8\u09c2\u099a\u09c0\u09f0 \u0986\u09af\u09bc\u09cb\u099c\u09a8 \u0995\u09f0\u09be \u09b9\u09c8\u099b\u09f7 \u098f\u0987 \u09ae\u09b9\u09cb\u09ce\u09b8\u09f1\u0995 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0 \u0995\u09f0\u09bf \u0985\u099e\u09cd\u099a\u09b2\u099f\u09cb\u09f0 \u09f0\u09be\u0987\u099c\u09f0 \u09ae\u09be\u099c\u09a4"
+   ]
+  },
+  {
+   "begin": "270.000",
+   "children": [],
+   "end": "271.080",
+   "id": "f000115",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09cd\u09af\u09be\u09aa\u0995 \u0989\u09ce\u09b8\u09be\u09b9-\u0989\u09a6\u09cd\u09a6\u09c0\u09aa\u09a8\u09be \u09aa\u09f0\u09bf\u09b2\u0995\u09cd\u09b7\u09bf\u09a4 \u09b9\u09c8\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000116",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000117",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000118",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000119",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000120",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000121",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000122",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000123",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000124",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000125",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "271.080",
+   "id": "f000126",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "271.080",
+   "children": [],
+   "end": "273.400",
+   "id": "f000127",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09eb\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "273.400",
+   "children": [],
+   "end": "273.400",
+   "id": "f000128",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "273.400",
+   "children": [],
+   "end": "277.520",
+   "id": "f000129",
+   "language": "asm",
+   "lines": [
+    "\u0985\u09b8\u09ae\u09f0 \u09b9\u09be\u099c\u0982 \u099c\u09a8\u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u09f0 \u09b2\u09cb\u0995\u09b8\u0995\u09b2\u09c7 \u09f0\u0999\u09be\u09b2\u09c0 \u09ac\u09bf\u09b9\u09c1\u0995 \u09ac\u09bf\u099b\u09c1\u09f1\u09be \u0989\u09ce\u09b8\u09f1 \u09b9\u09bf\u099a\u09be\u09aa\u09c7 \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09bf \u0986\u09b9\u09bf\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "277.520",
+   "children": [],
+   "end": "280.840",
+   "id": "f000130",
+   "language": "asm",
+   "lines": [
+    "\u099a\u09bf\u09f0\u09be\u0982 \u099c\u09bf\u09b2\u09be\u09f0 \u09ac\u09bf\u09b7\u09cd\u09a3\u09c1\u09aa\u09c1\u09f0\u09a4 \u09ac\u09b8\u09ac\u09be\u09b8 \u0995\u09f0\u09be \u099c\u09a8\u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u099f\u09cb\u09f0 \u09b2\u09cb\u0995\u09b8\u0995\u09b2\u09c7 \u0995\u09be\u09b2\u09bf \u09aa\u09f0\u09ae\u09cd\u09aa\u09f0\u09be\u0997\u09a4\u09ad\u09be\u09f1\u09c7 \u09a4\u09c7\u0993\u0981\u09b2\u09cb\u0995\u09f0"
+   ]
+  },
+  {
+   "begin": "280.840",
+   "children": [],
+   "end": "287.080",
+   "id": "f000131",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09bf\u099b\u09c1\u09f1\u09be \u0989\u09ce\u09b8\u09f1 \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09c7\u0964 \u09f0\u0999\u09be\u09b2\u09c0 \u0989\u09f0\u09c1\u0995\u09be\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09f0 \u09aa\u09f0\u09be \u0997\u09cb\u099f\u09c7\u0987 \u09ac'\u09b9\u09be\u0997 \u09ae\u09be\u09b9\u099f\u09cb \u098f\u0987 \u0989\u09ce\u09b8\u09f1 \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09be"
+   ]
+  },
+  {
+   "begin": "287.080",
+   "children": [],
+   "end": "292.960",
+   "id": "f000132",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09af\u09bc\u0964 \u099c\u09a8\u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u099f\u09cb\u09f0 \u09a1\u09c7\u0995\u09be-\u0997\u09be\u09ad\u09f0\u09c1\u09f1\u09c7 \u0995\u09be\u09b2\u09bf \u098f\u0987 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u0998\u09f0\u09c7 \u0998\u09f0\u09c7 \u0997\u09c8 \u099c\u09be\u0996\u09be\u09ae\u09be\u09f0\u09be \u09a8\u09c3\u09a4\u09cd\u09af \u09aa\u09f0\u09bf\u09f1\u09c7\u09b6\u09a8 \u0995\u09f0\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "292.960",
+   "children": [],
+   "end": "295.720",
+   "id": "f000133",
+   "language": "asm",
+   "lines": [
+    "\u098f\u0987 \u0989\u09ce\u09b8\u09f1 \u09aa\u09be\u09b2\u09a8\u09f0 \u09aa\u09bf\u099b\u09a4\u09c7\u0987 \u099c\u09a8\u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u099f\u09cb\u09f0 \u09b2\u09cb\u0995\u09b8\u0995\u09b2\u09c7 \u0995\u09c3\u09b7\u09bf\u0995\u09be\u09f0\u09cd\u09af\u09a4 \u099c\u09a1\u09bc\u09bf\u09a4 \u09b9\u09c8 \u09aa\u09f0\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "295.720",
+   "children": [],
+   "end": "295.720",
+   "id": "f000134",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "295.720",
+   "children": [],
+   "end": "297.080",
+   "id": "f000135",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09eb\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "297.080",
+   "children": [],
+   "end": "297.080",
+   "id": "f000136",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "297.080",
+   "children": [],
+   "end": "305.320",
+   "id": "f000137",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09be\u099c\u09cd\u09af\u09a4 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09bf\u09a8\u09c7 \u0995\u09cb\u09f1\u09bf\u09a1-\u09e7\u09ef\u09f0 \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09a3 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u0987\u099b\u09c7\u0964 \u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u09f0\u09be\u099c\u09cd\u09af\u0996\u09a8\u09a4 \u09e9\u09ee\u09eb\u099c\u09a8 \u09b2\u09cb\u0995"
+   ]
+  },
+  {
+   "begin": "305.320",
+   "children": [],
+   "end": "310.680",
+   "id": "f000138",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09b9\u09cb\u09f1\u09be\u09f0 \u09b2\u0997\u09a4\u09c7 \u09a4\u09bf\u09a8\u09bf\u099c\u09a8 \u09b2\u09cb\u0995 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09ae\u09c1\u0996\u09a4 \u09aa\u09f0\u09bf\u099b\u09c7\u0964 \u0995\u09be\u09b2\u09bf \u09ae\u09c1\u09a0 \u09e9\u09e6 \u09b9\u09be\u099c\u09be\u09f0 \u09ec\u09eb\u099f\u09be \u0995\u09cb\u09f1\u09bf\u09a1"
+   ]
+  },
+  {
+   "begin": "310.680",
+   "children": [],
+   "end": "321.000",
+   "id": "f000139",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u0995\u09f0\u09cb\u09f1\u09be \u09b9\u09c8\u099b\u09bf\u09b2 \u0986\u09f0\u09c1 \u0987\u09af\u09bc\u09be\u09f0 \u09ad\u09bf\u09a4\u09f0\u09a4 \u0995\u09be\u09ae\u09f0\u09c2\u09aa \u09ae\u09b9\u09be\u09a8\u0997\u09f0 \u099c\u09bf\u09b2\u09be\u09a4\u09c7 \u09b8\u09f0\u09cd\u09ac\u09be\u09a7\u09bf\u0995 \u09e8\u09e6\u09e7 \u099c\u09a8 \u09b2\u09cb\u0995 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4"
+   ]
+  },
+  {
+   "begin": "321.000",
+   "children": [],
+   "end": "329.160",
+   "id": "f000140",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09c8\u099b\u09c7\u0964 \u0986\u09a8\u09b9\u09be\u09a4\u09c7, \u0995\u09be\u09ae\u09f0\u09c2\u09aa \u0997\u09cd\u09f0\u09be\u09ae\u09cd\u09af \u099c\u09bf\u09b2\u09be\u09a4 \u09e9\u09e9, \u0995\u09be\u099b\u09be\u09f0\u09a4 \u09e8\u09e8 \u0986\u09f0\u09c1 \u09a1\u09bf\u09ac\u09cd\u09f0\u09c1\u0997\u09a1\u09bc\u09a4 \u09e7\u09ef\u099c\u09a8 \u09b2\u09cb\u0995 \u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4"
+   ]
+  },
+  {
+   "begin": "329.160",
+   "children": [],
+   "end": "333.560",
+   "id": "f000141",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09c8\u099b\u09c7\u0964 \u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09a3\u09f0 \u09b9\u09be\u09f0 \u0986\u099b\u09bf\u09b2 \u09e7 \u09a6\u09b6\u09ae\u09bf\u0995 \u09e8-\u09ee \u09b6\u09a4\u09be\u0982\u09b6\u0964 \u0995\u09be\u09b2\u09bf \u09e7\u09e6\u09ec\u099c\u09a8 \u09b2\u09cb\u0995\u0995"
+   ]
+  },
+  {
+   "begin": "333.560",
+   "children": [],
+   "end": "342.000",
+   "id": "f000142",
+   "language": "asm",
+   "lines": [
+    "\u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09b2\u09af\u09bc\u09f0 \u09aa\u09f0\u09be \u09af\u09be\u09ac\u09b2\u09c8 \u09a6\u09bf\u09af\u09bc\u09be \u09b9\u09c8\u099b\u09c7\u0964 \u09ac\u09f0\u09cd\u09a4\u09ae\u09be\u09a8 \u09e9 \u09b9\u09be\u099c\u09be\u09f0 \u09e8\u09e6\u09e6\u099c\u09a8 \u09f0\u09cb\u0997\u09c0 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09b2\u09af\u09bc \u0986\u09f0\u09c1 \u09b9\u09cb\u09ae"
+   ]
+  },
+  {
+   "begin": "342.000",
+   "children": [],
+   "end": "347.640",
+   "id": "f000143",
+   "language": "asm",
+   "lines": [
+    "\u0986\u0987\u099b\u2019\u09b2\u09c7\u09b6\u09cd\u09af\u09a8\u09a4 \u0986\u099b\u09c7 \u09ac\u09c1\u09b2\u09bf \u09f0\u09be\u09b7\u09cd\u099f\u09cd\u09f0\u09c0\u09af\u09bc \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0985\u09ad\u09bf\u09af\u09be\u09a8 \u0995\u09f0\u09cd\u09a4\u09c3\u09aa\u0995\u09cd\u09b7\u0987 \u099c\u09be\u09a8\u09bf\u09ac\u09b2\u09c8 \u09a6\u09bf\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "347.640",
+   "children": [],
+   "end": "347.640",
+   "id": "f000144",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "347.640",
+   "children": [],
+   "end": "353.840",
+   "id": "f000145",
+   "language": "asm",
+   "lines": [
+    "\u09a6\u09c7\u09b6\u09a4\u09cb \u0995\u09f0'\u09a8\u09be\u09f0 \u09a6\u09cd\u09f0\u09c1\u09a4 \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09a3 \u0998\u099f\u09bf\u099b\u09c7\u0964 \u09af\u09cb\u09f1\u09be \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09a4 \u09ad\u09be\u09f0\u09a4\u09a4 \u09a8\u09a4\u09c1\u09a8\u0995\u09c8 \u09e7 \u09b2\u09be\u0996 \u09ef\u09ef \u09b9\u09be\u099c\u09be\u09f0"
+   ]
+  },
+  {
+   "begin": "353.840",
+   "children": [],
+   "end": "360.240",
+   "id": "f000146",
+   "language": "asm",
+   "lines": [
+    "\u09eb\u09e9\u09e7\u099c\u09a8 \u09b2\u09cb\u0995 \u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09b9\u09c8\u099b\u09c7\u0964 \u0986\u09a8\u09b9\u09be\u09a4\u09c7, \u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u098f\u09b9\u09c7\u099c\u09be\u09f0 \u09e9\u09ec \u099c\u09a8 \u09b2\u09cb\u0995\u09f0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1"
+   ]
+  },
+  {
+   "begin": "360.240",
+   "children": [],
+   "end": "363.760",
+   "id": "f000147",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09c8\u099b\u09c7\u0964 \u09ac\u09bf\u0997\u09a4 \u09e7\u09e6 \u09a6\u09bf\u09a8\u09f0 \u09ad\u09bf\u09a4\u09f0\u09a4 \u09ad\u09be\u09f0\u09a4\u09a4 \u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4\u09c7 \u09b8\u09f0\u09cd\u09ac\u09be\u09a7\u09bf\u0995 \u09b2\u09cb\u0995 \u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09b9\u09c8\u099b\u09c7\u0964 \u09a6\u09bf\u09b2\u09cd\u09b2\u09c0\u09a4"
+   ]
+  },
+  {
+   "begin": "363.760",
+   "children": [],
+   "end": "367.320",
+   "id": "f000148",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09be\u09b2\u09bf\u09f0 \u09a6\u09bf\u09a8\u099f\u09cb\u09a4 \u09e7\u09ed \u09b9\u09be\u099c\u09be\u09f0\u09f0\u09cb \u0985\u09a7\u09bf\u0995 \u09b2\u09cb\u0995 \u0995\u09f0'\u09a8\u09be\u09a4 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09b9\u09cb\u09f1\u09be\u09f0 \u09ac\u09bf\u09aa\u09f0\u09c0\u09a4\u09c7 \u09e7\u09e6\u09ec\u099c\u09a8 \u09b2\u09cb\u0995\u09f0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1"
+   ]
+  },
+  {
+   "begin": "367.320",
+   "children": [],
+   "end": "367.320",
+   "id": "f000149",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.320",
+   "children": [],
+   "end": "367.760",
+   "id": "f000150",
+   "language": "asm",
+   "lines": [
+    "\u0998\u099f\u09bf\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000151",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000152",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000153",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000154",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000155",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000156",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000157",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000158",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000159",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000160",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000161",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000162",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000163",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000164",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000165",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000166",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000167",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000168",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000169",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000170",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000171",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000172",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000173",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000174",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000175",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000176",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000177",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000178",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000179",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000180",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000181",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000182",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000183",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000184",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000185",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000186",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000187",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000188",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000189",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000190",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000191",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000192",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "367.760",
+   "id": "f000193",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "367.760",
+   "children": [],
+   "end": "370.960",
+   "id": "f000194",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "370.960",
+   "children": [],
+   "end": "377.600",
+   "id": "f000195",
+   "language": "asm",
+   "lines": [
+    "\u0989\u09aa-\u09f0\u09b7\u09cd\u099f\u09cd\u09f0\u09aa\u09a4\u09bf \u098f\u09ae \u09ad\u09c7\u0982\u0995\u09be\u09af\u09bc\u09be \u09a8\u09be\u0987\u09a1\u09c1\u09af\u09bc\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2\u09b8\u0995\u09b2\u0995 \u0995\u09cb\u09f1\u09bf\u09a1 \u09ac\u09bf\u09f0\u09cb\u09a7\u09c0 \u09af\u09c1\u0981\u099c\u0996\u09a8\u09a4 \u09ae\u09c1\u0996\u09cd\u09af\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0\u09b8\u0995\u09b2\u09f0"
+   ]
+  },
+  {
+   "begin": "377.600",
+   "children": [],
+   "end": "385.200",
+   "id": "f000196",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09c8\u09a4\u09c7 \u09b8\u0995\u09cd\u09f0\u09bf\u09af\u09bc \u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be \u0986\u0997\u09ac\u09a2\u09bc\u09be\u09ac\u09b2\u09c8 \u0986\u09b9\u09cd\u09b2\u09be\u09a8 \u099c\u09a8\u09be\u0987\u099b\u09c7\u0964 \u09a4\u09c7\u0993\u0981 \u0995\u09af\u09bc \u09af\u09c7, \u09a4\u09c7\u0993\u0981\u09b2\u09cb\u0995\u09c7 \u0985\u09a7\u09bf\u0995 \u09ab\u09b2\u09aa\u09cd\u09b0\u09b8\u09c1"
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000197",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000198",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000199",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000200",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000201",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "385.200",
+   "id": "f000202",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "385.200",
+   "children": [],
+   "end": "394.640",
+   "id": "f000203",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09a3\u09a8\u09c0\u09a4\u09bf \u09af\u09c1\u0997\u09c1\u09a4\u09be\u0987 \u0989\u09b2\u09bf\u0993\u09f1\u09be\u09f0 \u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09f0\u09a4 \u09f0\u09be\u099c\u09cd\u09af \u099a\u09f0\u0995\u09be\u09f0\u09b8\u09ae\u09c2\u09b9\u0995 \u09aa\u09a5 \u09aa\u09cd\u09b0\u09a6\u09b0\u09cd\u09b6\u09a8 \u0995\u09f0\u09bf\u09ac \u09aa\u09be\u09f0\u09c7\u0964 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0 \u09a8\u09f0\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0 \u09ae\u09cb\u09a6\u09c0\u09f0"
+   ]
+  },
+  {
+   "begin": "394.640",
+   "children": [],
+   "end": "399.280",
+   "id": "f000204",
+   "language": "asm",
+   "lines": [
+    "\u0989\u09aa\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf\u09a4 \u09ad\u09bf\u09a1\u09bf\u0985' \u0995\u09a8\u09ab\u09be\u09f0\u09c7\u09a8\u09cd\u09b8\u09bf\u0982 \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be\u09f0\u09c7 \u0995\u09cb\u09f1\u09bf\u09a1 \u09ae\u09b9\u09be\u09ae\u09be\u09f0\u09c0\u09f0 \u09b8\u09a8\u09cd\u09a6\u09f0\u09cd\u09ad\u09a4 \u0995\u09be\u09b2\u09bf \u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2 \u0986\u09f0\u09c1 \u0989\u09aa-"
+   ]
+  },
+  {
+   "begin": "399.280",
+   "children": [],
+   "end": "409.960",
+   "id": "f000205",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2\u09b8\u0995\u09b2\u09f0 \u09b8\u09c8\u09a4\u09c7 \u09ae\u09a4 \u09ac\u09bf\u09a8\u09bf\u09ae\u09af\u09bc \u0995\u09f0\u09bf \u09b6\u09cd\u09f0\u09c0\u09a8\u09be\u0987\u09a1\u09c1\u09af\u09bc\u09c7 \u098f\u0987\u09a6\u09f0\u09c7 \u09aa\u09cd\u09b0\u0995\u09be\u09b6 \u0995\u09f0\u09c7\u0964 \u0989\u09aa-\u09f0\u09b7\u09cd\u099f\u09cd\u09f0\u09aa\u09a4\u09bf\u09af\u09bc\u09c7 \u0995\u09af\u09bc \u09af\u09c7"
+   ]
+  },
+  {
+   "begin": "409.960",
+   "children": [],
+   "end": "414.360",
+   "id": "f000206",
+   "language": "asm",
+   "lines": [
+    "\u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2\u09b8\u0995\u09b2\u09c7 \u09aa\u09f0\u09bf\u09f1\u09f0\u09cd\u09a4\u09a8\u09f0 \u09b8\u09ae\u09cd\u09ad\u09be\u09f1\u09cd\u09af \u09ae\u09be\u09a7\u09cd\u09af\u09ae \u09b9\u09bf\u099a\u09be\u09aa\u09c7 \u0995\u09be\u09ae \u0995\u09f0\u09bf\u09ac \u09aa\u09be\u09f0\u09c7 \u0986\u09f0\u09c1 \u0995\u09cb\u09f1\u09bf\u09a1 \u09ae\u09b9\u09be\u09ae\u09be\u09f0\u09c0\u09f0 \u09ac\u09bf\u09f0\u09cb\u09a7\u09c0"
+   ]
+  },
+  {
+   "begin": "414.360",
+   "children": [],
+   "end": "419.280",
+   "id": "f000207",
+   "language": "asm",
+   "lines": [
+    "\u09af\u09c1\u0981\u099c\u0996\u09a8\u09a4 \u0985\u09f1\u09a6\u09be\u09a8 \u0986\u0997\u09ac\u09a2\u09bc\u09be\u09ac\u09b2\u09c8 \u099c\u09a8\u09b8\u09be\u09a7\u09be\u09f0\u09a3\u0995 \u0989\u09ce\u09b8\u09be\u09b9\u09bf\u09a4 \u0995\u09f0\u09be\u09f0 \u0989\u09a6\u09cd\u09a6\u09c7\u09b6\u09cd\u09af\u09c7 \u09ae\u09c1\u0996\u09cd\u09af\u09ae\u09a8\u09cd\u09a4\u09c0\u09b8\u0995\u09b2\u09c7 \u099a\u09b2\u09cb\u09f1\u09be \u09aa\u09cd\u09f0\u099a\u09c7\u09b7\u09cd\u099f\u09be"
+   ]
+  },
+  {
+   "begin": "419.280",
+   "children": [],
+   "end": "426.640",
+   "id": "f000208",
+   "language": "asm",
+   "lines": [
+    "\u09b6\u0995\u09cd\u09a4\u09bf\u09b6\u09be\u09b2\u09c0 \u0995\u09f0\u09bf \u09a4\u09c1\u09b2\u09bf\u09ac \u09aa\u09be\u09f0\u09c7\u0964 \u099c\u09cd\u09f0\u09c0\u09a8\u09be\u0987\u09a1\u09c1\u09af\u09bc\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2\u09b8\u0995\u09b2\u0995 \u09f0\u09be\u099c\u09cd\u09af \u099a\u09f0\u0995\u09be\u09f0\u09f0 \u09b8\u09c8\u09a4\u09c7 \u098f\u0995\u09c7\u09b2\u0997\u09c7 \u0995\u09be\u09ae \u0995\u09f0\u09bf\u09ac\u09b2\u09c8"
+   ]
+  },
+  {
+   "begin": "426.640",
+   "children": [],
+   "end": "434.680",
+   "id": "f000209",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09f0\u09c1 \u0995\u09cb\u09f1\u09bf\u09a1 \u09ac\u09bf\u09f0\u09cb\u09a7\u09c0 \u09af\u09c1\u0981\u099c\u0996\u09a8\u0995 \u098f\u099f\u09be \u0997\u09a3 \u0986\u09a8\u09cd\u09a6\u09cb\u09b2\u09a8 \u09b9\u09bf\u099a\u09be\u09aa\u09c7 \u0997\u09a2\u09bc\u09bf \u09a4\u09c1\u09b2\u09bf\u09ac\u09b2\u09c8 \u0995\u09af\u09bc\u0964 \u09a4\u09c7\u0993\u0981 \u0995\u09af\u09bc \u09af\u09c7, \u09ac\u09bf\u0997\u09a4 \u098f\u099f\u09be"
+   ]
+  },
+  {
+   "begin": "434.680",
+   "children": [],
+   "end": "443.280",
+   "id": "f000210",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u099b\u09f0\u09a4 \u09b6\u09c8\u0995\u09cd\u09b7\u09bf\u0995 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8, \u09a8\u09be\u0997\u09f0\u09bf\u0995 \u09b8\u09ae\u09be\u099c \u09b8\u0982\u09b8\u09cd\u09a5\u09be, \u09b8\u09ae\u09be\u099c\u09b8\u09c7\u09f1\u0995 \u0986\u09f0\u09c1 \u0995\u09f0\u09cd\u09aa\u09cb\u09f0\u09c7\u099f \u0997\u09cb\u09b7\u09cd\u09a0\u09c0\u09b8\u09ae\u09c2\u09b9\u09c7 \u09ae\u09b9\u09be\u09ae\u09be\u09f0\u09c0 \u09ac\u09bf\u09f0\u09cb\u09a7\u09c0"
+   ]
+  },
+  {
+   "begin": "443.280",
+   "children": [],
+   "end": "455.280",
+   "id": "f000211",
+   "language": "asm",
+   "lines": [
+    "\u09af\u09c1\u0981\u099c\u0996\u09a8\u09b2\u09c8 \u09b8\u0995\u09cd\u09f0\u09bf\u09af\u09bc \u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be \u0986\u0997\u09ac\u09a2\u09bc\u09be\u0987\u099b\u09c7 \u0986\u09f0\u09c1 \u0995\u09cb\u09f1\u09bf\u09a1\u09f0 \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09af\u09bc\u099f\u09cb \u099f\u09cc\u09f0 \u09b8\u09ae\u09af\u09bc\u09a4\u09cb \u09a4\u09c7\u0993\u0981\u09b2\u09cb\u0995\u0995 \u099c\u09a1\u09bc\u09bf\u09a4"
+   ]
+  },
+  {
+   "begin": "455.280",
+   "children": [],
+   "end": "461.280",
+   "id": "f000212",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0\u09be\u09f0 \u0986\u09f1\u09b6\u09cd\u09af\u0995\u09a4\u09be \u0986\u099b\u09c7\u0964 \u09b8\u09a0\u09bf\u0995 \u0995\u09cb\u09f1\u09bf\u09a1 \u0986\u099a\u09f0\u09a3\u09ac\u09bf\u09a7\u09bf \u0985\u09f1\u09b2\u09ae\u09cd\u09ac\u09a8\u09f0 \u0997\u09c1\u09f0\u09c1\u09a4\u09cd\u09ac\u09f0 \u09ac\u09bf\u09b7\u09af\u09bc\u09c7 \u09ac\u09cd\u09af\u09be\u09aa\u0995\u09ad\u09be\u09f1\u09c7 \u09aa\u09cd\u09b0\u099a\u09be\u09f0"
+   ]
+  },
+  {
+   "begin": "461.280",
+   "children": [],
+   "end": "469.640",
+   "id": "f000213",
+   "language": "asm",
+   "lines": [
+    "\u099a\u09b2\u09cb\u09f1\u09be\u09f0 \u0986\u09f1\u09b6\u09cd\u09af\u0995\u09a4\u09be\u09a4 \u0997\u09c1\u09f0\u09c1\u09a4\u09cd\u09ac \u0986\u09f0\u09cb\u09aa \u0995\u09f0\u09bf \u0989\u09aa-\u09f0\u09b7\u09cd\u099f\u09cd\u09f0\u09aa\u09a4\u09bf\u09af\u09bc\u09c7 \u0995\u09af\u09bc \u09af\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u09aa\u09be\u09b2\u09b8\u0995\u09b2\u09c7 \u099c\u09a8\u09b8\u09be\u09a7\u09be\u09f0\u09a3\u09f0 \u09b8\u09c8\u09a4\u09c7"
+   ]
+  },
+  {
+   "begin": "469.640",
+   "children": [],
+   "end": "473.320",
+   "id": "f000214",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09ae\u09cd\u09aa\u09f0\u09cd\u0995\u09f0 \u098f\u09a8\u09be\u099c\u09f0\u09c0\u09a1\u09be\u09b2 \u09b8\u09c1\u09a6\u09c3\u09a2\u09bc \u0995\u09f0\u09bf \u09a4\u09c7\u0993\u0981\u09b2\u09cb\u0995\u0995 \u09b8\u09a0\u09bf\u0995 \u0986\u099a\u09f0\u09a3 \u0985\u09f1\u09b2\u09ae\u09cd\u09ac\u09a8 \u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u0985\u09a8\u09c1\u09aa\u09cd\u09f0\u09c7\u09f0\u09a3\u09be \u09af\u09cb\u0997\u09be\u09ac \u09aa\u09be\u09f0\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "473.320",
+   "children": [],
+   "end": "473.320",
+   "id": "f000215",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "473.320",
+   "children": [],
+   "end": "480.800",
+   "id": "f000216",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09a8\u09b9\u09be\u09a4\u09c7, \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0 \u09ae\u09cb\u09a6\u09c0\u09af\u09bc\u09c7 \u0995\u09af\u09bc \u09af\u09c7, \u09a6\u09c7\u09b6\u09a4 \u0995\u09cb\u09f1\u09bf\u09a1 \u09a8\u09be\u0987\u09a3\u09cd\u099f\u09bf\u09a8\u09f0 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09c7\u09a7\u0995 \u09aa\u09f0\u09cd\u09af\u09be\u09aa\u09cd\u09a4 \u09ae\u09be\u09a4\u09cd\u09ac\u09be\u09a4 \u0989\u09aa\u09b2\u09ac\u09cd\u09a7"
+   ]
+  },
+  {
+   "begin": "480.800",
+   "children": [],
+   "end": "486.240",
+   "id": "f000217",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u099a\u09f0\u0995\u09be\u09f0 \u09ac\u09a6\u09cd\u09a7\u09aa\u09f0\u09bf\u0995\u09f0\u0964 \u09ad\u09be\u09f0\u09a4\u09c7 \u0987\u09a4\u09bf\u09ae\u09a7\u09cd\u09af\u09c7 \u0995\u09cd\u09b7\u09c0\u09aa\u09cd\u09f0\u09a4\u09be\u09f0\u09c7 \u09e7\u09e7 \u0995\u09cb\u099f\u09bf \u09b2\u09cb\u0995\u0995 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09c7\u09a7\u0995 \u09aa\u09cd\u09b0\u09a6\u09be\u09a8\u09f0 \u0995\u09c3\u09a4\u09bf\u09a4\u09cd\u09ac"
+   ]
+  },
+  {
+   "begin": "486.240",
+   "children": [],
+   "end": "491.040",
+   "id": "f000218",
+   "language": "asm",
+   "lines": [
+    "\u0985\u09f0\u09cd\u099c\u09a8 \u0995\u09f0\u09bf\u099b\u09c7 \u09ac\u09c1\u09b2\u09bf \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0\u09af\u09bc\u09c7 \u0989\u09b2\u09cd\u09b2\u09c7\u0996 \u0995\u09f0\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000219",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000220",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000221",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000222",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000223",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000224",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000225",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000226",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000227",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000228",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000229",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000230",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000231",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000232",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000233",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000234",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000235",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000236",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000237",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000238",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000239",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000240",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000241",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000242",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000243",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000244",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000245",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000246",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000247",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000248",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000249",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000250",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000251",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000252",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000253",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000254",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000255",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000256",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000257",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000258",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000259",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000260",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "491.040",
+   "id": "f000261",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "491.040",
+   "children": [],
+   "end": "502.000",
+   "id": "f000262",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u099a\u09f0\u0995\u09be\u09f0\u09c7 \u098f\u099f\u09be \u09a8\u09bf\u09f0\u09cd\u09a6\u09c7\u09b6\u09a8\u09be\u09af\u09cb\u0997\u09c7 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09bf\u0995 \u09b6\u09bf\u0995\u09cd\u09b7\u09be \u09aa\u09f0\u09bf\u09b7\u09a6 \u099a\u09ae\u09c1\u0995\u09c8 \u099a\u09bf \u09ac\u09bf \u098f\u099b \u0987\u09f0 \u09a6\u09b6\u09ae"
+   ]
+  },
+  {
+   "begin": "502.000",
+   "children": [],
+   "end": "509.560",
+   "id": "f000263",
+   "language": "asm",
+   "lines": [
+    "\u09b6\u09cd\u09f0\u09c7\u09a3\u09c0 \u0986\u09f0\u09c1 \u09a6\u09cd\u09ac\u09be\u09a6\u09b6 \u09b6\u09cd\u09f0\u09c7\u09a3\u09c0\u09f0 \u099a\u09c2\u09a1\u09bc\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09b8\u09ae\u09c2\u09b9\u09f0 \u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09f0\u09a4 \u0997\u09c1\u09f0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09f0\u09cd\u09a3 \u0998\u09cb\u09b7\u09a3\u09be \u0995\u09f0\u09bf\u099b\u09c7\u0964 \u09b8\u09c7\u0987 \u0985\u09a8\u09c1\u09af\u09be\u09af\u09bc\u09c0 \u09aa\u09f0\u09bf\u09b7\u09a6\u09f0"
+   ]
+  },
+  {
+   "begin": "509.560",
+   "children": [],
+   "end": "514.760",
+   "id": "f000264",
+   "language": "asm",
+   "lines": [
+    "\u09a6\u09b6\u09ae \u09b6\u09cd\u09f0\u09c7\u09a3\u09c0\u09f0 \u099a\u09c2\u09a1\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u09ac\u09be\u09a4\u09bf\u09b2 \u0995\u09f0\u09be \u09b9\u09c8\u099b\u09c7 \u0986\u09f0\u09c1 \u09a6\u09cd\u09ac\u09be\u09a6\u09b6 \u09b6\u09cd\u09f0\u09c7\u09a3\u09c0\u09f0 \u099a\u09c2\u09a1\u09bc\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u09b8\u09cd\u09a5\u0997\u09bf\u09a4 \u09f0\u0996\u09be \u09b9\u09c8\u099b\u09c7\u0964 \u0995\u09be\u09b2\u09bf"
+   ]
+  },
+  {
+   "begin": "514.760",
+   "children": [],
+   "end": "527.720",
+   "id": "f000265",
+   "language": "asm",
+   "lines": [
+    "\u09a8\u09a4\u09c1\u09a8 \u09a6\u09bf\u09b2\u09cd\u09b2\u09c0\u09a4 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0 \u09a8\u09f0\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0 \u09ae\u09cb\u09a6\u09c0\u09f0 \u09b8\u09c8\u09a4\u09c7 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0 \u0986\u09f0\u09c1 \u099c\u09cd\u09af\u09c7\u09b7\u09cd\u09a0 \u09ac\u09bf\u09b7\u09af\u09bc\u09be\u09ac\u09f0\u09cd\u0997\u09f0 \u098f\u09b2\u09be\u09a8\u09bf \u0986\u09b2\u09cb\u099a\u09a8\u09be\u09a4"
+   ]
+  },
+  {
+   "begin": "527.720",
+   "children": [],
+   "end": "538.280",
+   "id": "f000266",
+   "language": "asm",
+   "lines": [
+    "\u098f\u0987 \u09ae\u09f0\u09cd\u09ae\u09c7 \u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4 \u09b2\u09cb\u09f1\u09be \u09b9\u09af\u09bc\u0964 \u09b8\u09ad\u09be\u09a4 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09c0 \u09a8\u09f0\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0 \u09ae\u09cb\u09a6\u09c0\u09af\u09bc\u09c7 \u0995\u09af\u09bc \u09af\u09c7 \u099a\u09f0\u0995\u09be\u09f0\u09c7 \u099b\u09be\u09a4\u09cd\u09f0-\u099b\u09be\u09a4\u09cd\u09f0\u09c0\u09b8\u0995\u09b2\u09f0 \u09b6\u09c8\u0995\u09cd\u09b7\u09bf\u0995"
+   ]
+  },
+  {
+   "begin": "538.280",
+   "children": [],
+   "end": "548.960",
+   "id": "f000267",
+   "language": "asm",
+   "lines": [
+    "\u09a6\u09bf\u09b6\u099f\u09cb\u09f0 \u09b2\u0997\u09a4\u09c7 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09f0\u0995\u09cd\u09b7\u09be\u09f0 \u0993\u09aa\u09f0\u09a4 \u0985\u09a7\u09bf\u0995 \u0997\u09c1\u09f0\u09c1\u09a4\u09cd\u09ac \u0986\u09f0\u09cb\u09aa \u0995\u09f0\u09bf\u099b\u09c7\u0964 \u09aa\u09cd\u09f0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0\u09af\u09bc\u09c7 \u0985\u09f1\u09b6\u09cd\u09af\u09c7 \u0995\u09af\u09bc \u09af\u09c7, \u09a6\u09cd\u09ac\u09be\u09a6\u09b6"
+   ]
+  },
+  {
+   "begin": "548.960",
+   "children": [],
+   "end": "557.120",
+   "id": "f000268",
+   "language": "asm",
+   "lines": [
+    "\u09b6\u09cd\u09f0\u09c7\u09a3\u09c0\u09f0 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09f0 \u09ac\u09bf\u09b7\u09af\u09bc\u099f\u09cb \u0985\u09b9\u09be \u09e7 \u099c\u09c1\u09a8\u09a4 \u09aa\u09c1\u09a8\u09f0 \u09aa\u09f0\u09cd\u09af\u09be\u09b2\u09cb\u099a\u09a8\u09be \u0995\u09f0\u09be \u09b9'\u09ac \u0986\u09f0\u09c1 \u09a4\u09be\u09f0\u09aa\u09bf\u099b\u09a4\u09b9\u09c7 \u09af\u09a5\u09cb\u09aa\u09af\u09c1\u0995\u09cd\u09a4 \u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4"
+   ]
+  },
+  {
+   "begin": "557.120",
+   "children": [],
+   "end": "574.520",
+   "id": "f000269",
+   "language": "asm",
+   "lines": [
+    "\u0997\u09cd\u09f0\u09b9\u09a3 \u0995\u09f0\u09be \u09b9'\u09ac\u0964 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u09b6\u09bf\u0995\u09cd\u09b7\u09be \u09ae\u09a8\u09cd\u09a4\u09cd\u09af\u09be\u09b2\u09af\u09bc\u09c7 \u0995\u09c8\u099b\u09c7 \u09af\u09c7 \u09a6\u09cd\u09ac\u09be\u09a6\u09b6 \u09b6\u09cd\u09f0\u09c7\u09a3\u09c0\u09f0 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4 \u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u09b9'\u09b2\u09c7 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09f0"
+   ]
+  },
+  {
+   "begin": "574.520",
+   "children": [],
+   "end": "577.880",
+   "id": "f000270",
+   "language": "asm",
+   "lines": [
+    "\u09e7\u09eb \u09a6\u09bf\u09a8 \u09aa\u09c2\u09f0\u09cd\u09ac\u09c7\u09b9\u09c7 \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8\u09c0\u09af\u09bc \u099c\u09be\u09a8\u09a8\u09c0 \u099c\u09be\u09f0\u09bf \u0995\u09f0\u09be \u09b9'\u09ac"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000271",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000272",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09a8\u09b9\u09be\u09a4\u09c7, \u0995\u09f0'\u09a8\u09be\u09f0 \u09a6\u09cd\u09b0\u09c1\u09a4 \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09a3\u09f0 \u09aa\u09cd\u09b0\u09a4\u09bf \u09b2\u0995\u09cd\u09b7\u09cd\u09af \u09f0\u09be\u0996\u09bf \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09bf\u0995 \u09b6\u09bf\u0995\u09cd\u09b7\u09be \u09b8\u0982\u09b8\u09a6 \u099a\u09ae\u09c1\u0995\u09c8 \u099b\u09c7\u09ac\u09be\u0987 \u0995\u09c7\u09a4\u09ac\u09cb\u09f0"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000273",
+   "language": "asm",
+   "lines": [
+    "\u09a8\u09c0\u09a4\u09bf-\u09a8\u09bf\u09f0\u09cd\u09a6\u09c7\u09b6\u09a8\u09be \u099c\u09be\u09f0\u09bf \u0995\u09f0\u09bf\u099b\u09c7\u0964 \u099b\u09c7\u09ac\u09be\u0987 \u09aa\u09c2\u09f0\u09cd\u09ac \u09a8\u09bf\u09f0\u09cd\u09a7\u09be\u09f0\u09bf\u09a4 \u09b8\u09c2\u099a\u09c0 \u0985\u09a8\u09c1\u09b8\u09f0\u09bf\u09af\u09bc\u09c7\u0987 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u09b8\u09ae\u09cd\u09aa\u09a8\u09cd\u09a8 \u0995\u09f0\u09bf\u09ac\u0964 \u0985\u09f1\u09b6\u09cd\u09af\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000274",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09f0\u09cd\u09a5\u09c0\u09b8\u0995\u09b2\u09c7 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be \u09b9\u09b2\u09a4 \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09a6\u09c2\u09f0\u09a4\u09cd\u09ac \u09ae\u09be\u09a8\u09bf \u099a\u09b2\u09bf\u09ac \u09b2\u09be\u0997\u09bf\u09ac \u09ac\u09c1\u09b2\u09bf \u099b\u09c7\u09ac\u09be\u0987 \u09a8\u09bf\u09f0\u09cd\u09a6\u09c7\u09b6\u09a8\u09be \u099c\u09be\u09f0\u09bf \u0995\u09f0\u09bf\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000275",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09cb\u09f1\u09bf\u09a1 \u0986\u0995\u09cd\u09f0\u09be\u09a8\u09cd\u09a4 \u09aa\u09f0\u09c0\u0995\u09cd\u09b7\u09be\u09f0\u09cd\u09a5\u09c0\u09f0 \u09ac\u09be\u09ac\u09c7\u0993 \u0986\u099b\u09c1\u09a4\u09c0\u09af\u09bc\u09be \u0995\u09cb\u09a0\u09be\u09f0 \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be \u0995\u09f0\u09bf\u09ac \u09ac\u09c1\u09b2\u09bf \u099b\u09c7\u09ac\u09be\u0987 \u09aa\u09cd\u09b0\u0995\u09be\u09b6 \u0995\u09f0\u09bf\u099b\u09c7\u0964 \u09af\u09bf\u09b8\u09ae\u09c2\u09b9"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000276",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0\u09a4 \u098f\u0987 \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be \u09a8\u09be\u09a5\u09be\u0995\u09bf\u09ac \u09b8\u09c7\u0987 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09b8\u09ae\u09c2\u09b9\u09a4 \u0985\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0 \u0995\u09cb\u09a0\u09be\u09f0 \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be \u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u09a8\u09bf\u09f0\u09cd\u09a6\u09c7\u09b6 \u09a6\u09bf\u09af\u09bc\u09be \u09b9\u09c8\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000277",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000278",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000279",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000280",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000281",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000282",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000283",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000284",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000285",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000286",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000287",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000288",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000289",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000290",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000291",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000292",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000293",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000294",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000295",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000296",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000297",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000298",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000299",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000300",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000301",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000302",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000303",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000304",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000305",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000306",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000307",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000308",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000309",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000310",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09b6\u09cd\u099a\u09bf\u09ae\u09ac\u0982\u0997 \u09ac\u09bf\u09a7\u09be\u09a8\u09b8\u09ad\u09be\u09f0 \u09aa\u099e\u09cd\u099a\u09ae \u09aa\u09f0\u09cd\u09af\u09be\u09af\u09bc\u09f0 \u09a8\u09bf\u09f0\u09cd\u09ac\u09be\u099a\u09a8\u09f0 \u09aa\u09cd\u09b0\u099a\u09be\u09f0 \u0985\u09ad\u09bf\u09af\u09be\u09a8\u09f0 \u0995\u09be\u09b2\u09bf \u09b8\u09be\u09ae\u09f0\u09a3\u09bf \u09aa\u09f0\u09c7\u0964 \u098f\u0987 \u09aa\u09f0\u09cd\u09af\u09be\u09af\u09bc\u09a4"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000311",
+   "language": "asm",
+   "lines": [
+    "\u09b6\u09a8\u09bf\u09ac\u09be\u09f0\u09c7 \u09f0\u09be\u099c\u09cd\u09af\u0996\u09a8\u09f0 \u09ec\u0996\u09a8 \u099c\u09bf\u09b2\u09be\u09f0 \u09ae\u09c1\u09a0 \u09ea\u09eb\u099f\u09be \u09b8\u09ae\u09b7\u09cd\u099f\u09bf\u09f0 \u09ac\u09be\u09ac\u09c7 \u09ad\u09cb\u099f\u0997\u09cd\u09f0\u09b9\u09a3 \u0995\u09f0\u09be \u09b9'\u09ac\u0964 \u098f\u0987 \u0986\u09b8\u09a8\u0995\u09c7\u0987\u0996\u09a8\u09f0 \u09ac\u09be\u09ac\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000312",
+   "language": "asm",
+   "lines": [
+    "\u09e9\u09ef \u0997\u09f0\u09be\u0995\u09c0 \u09ae\u09b9\u09bf\u09b2\u09be\u0995\u09c7 \u09a7\u09f0\u09bf \u09ae\u09c1\u09a0 \u09e9\u09e7\u09ef \u0997\u09f0\u09be\u0995\u09c0 \u09aa\u09cd\u09b0\u09be\u09cd\u09a5\u09c0\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09cd\u09ac\u09a8\u09cd\u09a6\u09cd\u09ac\u09a4\u09be \u0986\u0997\u09ac\u09a2\u09bc\u09be\u0987\u099b\u09c7\u0964 \u09aa\u099e\u09cd\u099a\u09ae \u09aa\u09f0\u09cd\u09af\u09be\u09af\u09bc\u09a4 \u09ad\u09cb\u099f\u0997\u09cd\u09f0\u09b9\u09a3"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000313",
+   "language": "asm",
+   "lines": [
+    "\u09b9'\u09ac\u09b2\u0997\u09c0\u09af\u09bc\u09be \u09ae\u09c1\u09a0 \u09ea\u09eb\u099f\u09be \u09b8\u09ae\u09b7\u09cd\u099f\u09bf\u09f0 \u09ad\u09bf\u09a4\u09f0\u09a4 \u0989\u09a4\u09cd\u09a4\u09f0 \u09ac\u0982\u0997\u09f0 \u0995\u09be\u09b2\u09bf\u09ae\u09aa\u0999, \u09a6\u09be\u09f0\u09cd\u099c\u09bf\u09b2\u09bf\u0982 \u0986\u09f0\u09c1 \u099c\u09b2\u09aa\u09be\u0987\u0997\u09c1\u09f0\u09bf \u099c\u09bf\u09b2\u09be\u09f0 \u09e7\u09e9\u099f\u09be"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000314",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000315",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000316",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000317",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000318",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000319",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000320",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000321",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000322",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09ae\u09b7\u09cd\u099f\u09bf\u0993 \u0986\u099b\u09c7\u0964 \u09a6\u09be\u09f0\u09cd\u099c\u09bf\u09b2\u09bf\u0982 \u099c\u09bf\u09b2\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09c7 \u0995\u09cb\u09ad\u09bf\u09a1-\u09e7\u09ef\u09f0 \u09aa\u09cd\u09f0\u09be\u09a6\u09c1\u09f0\u09cd\u09ad\u09be\u09f1\u09b2\u09c8 \u099a\u09be\u0987 \u09ad\u09cb\u099f\u0997\u09cd\u09f0\u09b9\u09a3\u09f0 \u09b8\u09ae\u09af\u09bc\u09a4 \u09af\u09be\u09a4\u09c7 \u0995\u09cb\u09a8\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000323",
+   "language": "asm",
+   "lines": [
+    "\u09b2\u09cb\u0995 \u098f\u0987 \u09f0\u09cb\u0997\u09f0 \u09a6\u09cd\u09ac\u09be\u09f0\u09be \u09b8\u0982\u0995\u09cd\u09f0\u09ae\u09bf\u09a4 \u09a8\u09b9\u09af\u09bc \u09a4\u09be\u09f0 \u09ac\u09be\u09ac\u09c7 \u09b8\u0995\u09b2\u09cb \u09aa\u09a6\u0995\u09cd\u09b7\u09c7\u09aa \u09b2\u09c8\u099b\u09c7\u0964 \u099c\u09bf\u09b2\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09c7 \u09b6\u09a8\u09bf\u09ac\u09be\u09f0\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000324",
+   "language": "asm",
+   "lines": [
+    "\u09ad\u09cb\u099f\u09a6\u09be\u09a8 \u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u0985\u09b9\u09be\u09f0 \u09b8\u09ae\u09af\u09bc\u09a4 \u09b8\u09a0\u09bf\u0995\u09ad\u09be\u09f1\u09c7 \u09ae\u09be\u09b8\u09cd\u0995 \u09aa\u09f0\u09bf\u09a7\u09be\u09a8 \u0995\u09f0\u09bf\u09ac\u09b2\u09c8 \u09ad\u09cb\u099f\u09a6\u09be\u09a4\u09be\u09b8\u0995\u09b2\u09f0 \u09aa\u09cd\u09b0\u09a4\u09bf \u0986\u09b9\u09cd\u09ac\u09be\u09a8"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000325",
+   "language": "asm",
+   "lines": [
+    "\u099c\u09a8\u09be\u0987\u099b\u09c7\u0964 \u09ad\u09cb\u099f\u0997\u09cd\u09f0\u09b9\u09a3\u09a4 \u09aa\u09cd\u09b0\u09f1\u09c7\u09b6 \u0995\u09f0\u09be\u09f0 \u09aa\u09c2\u09f0\u09cd\u09ac\u09c7 \u09ad\u09cb\u099f\u09a6\u09be\u09a4\u09be\u09b8\u0995\u09b2\u0995 \u099a\u09c7\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09f0 \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09f0\u09be\u09f0\u09cb \u09ac\u09cd\u09af\u09f1\u09b8\u09cd\u09a5\u09be \u0995\u09f0"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000326",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09c8\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000327",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000328",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000329",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000330",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000331",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000332",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000333",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000334",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000335",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000336",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09eb\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000337",
+   "language": "asm",
+   "lines": [
+    "\u09ac\u09be\u0995\u09cd\u09b8\u09f7 \u099c\u09bf\u09b2\u09be\u09f0 \u09b6\u09be\u09b2\u09ac\u09be\u09f0\u09c0\u09f0 \u09a7\u09c1\u09ae\u09be\u09f0 \u09aa\u09a5\u09be\u09f0\u09a4 \u0995\u09be\u09b2\u09bf \u099a\u09a1\u09bc\u09cd\u200c\u0995 \u09aa\u09c2\u099c\u09be \u0989\u09a6\u09af\u09be\u09aa\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964 \u0995\u09be\u09b2\u09bf \u09b8\u09a8\u09cd\u09a7\u09bf\u09af\u09bc\u09be \u09b8\u09be\u09ae\u09f0\u09a3\u09bf"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000338",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09f0\u09be \u098f\u0987 \u09aa\u09c2\u099c\u09be\u09a4 \u09a8\u09a4\u09c1\u09a8 \u09ac\u099b\u09f0\u099f\u09cb \u09af\u09be\u09a4\u09c7 \u0995\u09c1\u09b6\u09b2\u09c7 \u0985\u09a4\u09bf\u09ac\u09be\u09b9\u09bf\u09a4 \u09b9\u09cb\u09f1\u09be\u09f0 \u0985\u09f0\u09cd\u09a5\u09c7 \u09a6\u09c7\u09ac\u09be\u09a6\u09bf\u09a6\u09c7\u09ac \u09ae\u09b9\u09be\u09a6\u09c7\u09f1\u09f0 \u09aa\u09c2\u099c\u09be \u0985\u09f0\u09cd\u099a\u09a8\u09f7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000339",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000340",
+   "language": "asm",
+   "lines": [
+    "\u098f\u0987 \u0989\u09aa\u09b2\u0995\u09cd\u09b7\u09c7 \u0986\u09af\u09bc\u09cb\u099c\u09bf\u09a4 \u09ae\u09be\u09a8\u09ac \u09ac\u09f0\u09b6\u09c0 \u09a6\u09c3\u09b6\u09cd\u09af \u099a\u09be\u09ac\u09b2\u09c8 \u09ac\u09b9\u09c1\u09a4\u09cb \u09b2\u09cb\u0995\u09f0 \u09b8\u09ae\u09be\u0997\u09ae \u0998\u099f\u09be \u09aa\u09f0\u09bf\u09b2\u0995\u09cd\u09b7\u09bf\u09a4 \u09b9\u09c8\u099b\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000341",
+   "language": "asm",
+   "lines": [
+    "\u09ae\u09c2\u09f0 \u09ae\u09c7\u09b2\u09be\u09a4\u09cb \u0995\u09be\u09b2\u09bf \u098f\u0987 \u099a\u09a1\u09bc\u09c1\u0995 \u09aa\u09c2\u099c\u09be \u0989\u09a6\u09af\u09be\u09aa\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000342",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09cb\u0995\u09f0\u09be\u09ac\u09cd\u09ac\u09be\u09f0 \u099c\u09bf\u09b2\u09be\u09a4\u09cb \u09ac\u09cd\u09af\u09be\u09aa\u0995 \u0989\u09ce\u09b8\u09be\u09b9-\u0989\u09a6\u09cd\u09a6\u09c0\u09aa\u09a8\u09be\u09f0\u09c7 \u099f\u09a1\u09c1\u0995 \u09aa\u09c2\u099c\u09be \u09aa\u09be\u09b2\u09a8 \u0995\u09f0\u09be \u09b9\u09af\u09bc \u09ac\u09c1\u09b2\u09bf \u0986\u09ae\u09be\u09f0"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000343",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be\u0987 \u099c\u09a8\u09be\u0987\u099b\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000344",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09eb\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000345",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000346",
+   "language": "asm",
+   "lines": [
+    "\u099a\u09c7\u09a8\u09cd\u09a8\u09be\u0987\u09a4 \u09af\u09cb\u09f1\u09be \u09a8\u09bf\u09b6\u09be \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4 \u0986\u0987 \u09aa\u09bf \u098f\u09b2\u09f0 \u098f\u0996\u09a8 \u0996\u09c7\u09b2\u09a4 \u099b\u09be\u09a8\u09f0\u09be\u0987\u099c\u09be\u09f0\u09cd\u099b \u09b9\u09be\u09af\u09bc\u09a6\u09f0\u09be\u09ac\u09be\u09a6\u09f0 \u09ac\u09bf\u09f0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09f0\u09af\u09bc\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000347",
+   "language": "asm",
+   "lines": [
+    "\u099b\u09c7\u09b2\u09c7\u099e\u09cd\u099c\u09be\u09f0\u09cd\u099b \u09ac\u09be\u0982\u0997\u09be\u09b2\u09c1\u09f0\u09c1 \u09ec \u09f0\u09be\u09a8\u09a4 \u099c\u09af\u09bc\u09c0 \u09b9\u09c8\u099b\u09c7\u0964 \u0996\u09c7\u09b2\u0996\u09a8\u09a4 \u09aa\u09cd\u09b0\u09a5\u09ae\u09c7 \u09ac\u09c7\u099f\u09bf\u0982 \u0995\u09f0\u09bf \u09f0\u09af\u09bc\u09c7\u09b2 \u099b\u09c7\u09b2\u09c7\u099e\u09cd\u099c\u09be\u09f0\u09cd\u099b \u09ac\u09be\u0982\u0997\u09be\u09b2\u09c1\u09f0\u09c1\u09f1\u09c7 \u0997\u09a8"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000348",
+   "language": "asm",
+   "lines": [
+    "\u09ae\u09c7\u0995\u09cd\u09b8\u09c1\u09f1\u09c7\u09b2\u09f0 \u09eb\u09ef \u0986\u09f0\u09c1 \u0985\u09a7\u09bf\u09a8\u09be\u09af\u09bc\u0995 \u09ac\u09bf\u09f0\u09be\u099f \u0995\u09cb\u09b9\u09b2\u09c0\u09f0 \u09e9\u09e9 \u09f0\u09be\u09a8\u09f0 \u09b8\u09b9\u09be\u09af\u09bc\u09c7\u09f0\u09c7 \u09ee\u099f\u09be \u0989\u0987\u0995\u09c7\u099f \u09b9\u09c7\u09f0\u09c1\u09f1\u09be\u0987 \u09e7\u09ea\u09ef \u09f0|"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000349",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0\u09bf\u099b\u09bf\u09b2\u0964 \u09aa\u09cd\u09f0\u09a4\u09cd\u09af\u09c1\u09a4\u09cd\u09a4\u09f0\u09a4 \u099b\u09be\u09a8\u09f0\u09be\u0987\u099c\u09be\u09f0\u09cd\u099b \u09b9\u09be\u09af\u09bc\u09a6\u09f0\u09be\u09ac\u09be\u09a6\u09c7 \u09ef\u099f\u09be \u0989\u0987\u0995\u09c7\u099f \u09b9\u09c7\u09f0\u09c1\u09f1\u09be\u0987 \u09e7\u09ea\u09e9 \u09f0\u09be\u09a8 \u0995\u09f0\u09bf\u09ac\u09b2\u09c8\u09b9\u09c7 \u09b8\u0995\u09cd\u09b7\u09ae \u09b9\u09af\u09bc"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000350",
+   "language": "asm",
+   "lines": [
+    "\u09b9\u09be\u09af\u09bc\u09a6\u09f0\u09be\u09ac\u09be\u09a6\u09f0 \u09b9\u09c8 \u0985\u09a7\u09bf\u09a8\u09be\u09af\u09bc\u0995 \u09a1\u09c7\u09ad\u09bf\u09a1 \u09f1\u09be\u09f0\u09cd\u09a3\u09be\u09f0\u09c7 \u09b8\u09f0\u09cd\u09ac\u09be\u09a7\u09bf\u0995 \u09eb\u09ea \u09f0\u09be\u09a8 \u0995\u09f0\u09bf\u09b2\u09c7\u0993 \u09a6\u09b2\u0995 \u09aa\u09f0\u09be\u099c\u09af\u09bc \u0997\u09f0\u09be\u09b9\u09f0 \u09aa\u09f0\u09be \u09f0\u0995\u09cd\u09b7\u09be"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000351",
+   "language": "asm",
+   "lines": [
+    "\u0995\u09f0\u09bf\u09ac \u09a8\u09cb\u09f1\u09be\u09f0\u09bf\u09b2\u09c7\u0964 \u09ac\u09be\u0982\u0997\u09be\u09b2\u09c1\u09f0\u09c1\u09f0 \u09b9\u09c8 \u09b6\u09cd\u09ac\u09be\u09b9\u09ac\u09be\u099c \u0986\u09b9\u09ae\u09c7\u09a6\u09c7 \u09e9\u099f\u09be \u0989\u0987\u0995\u09c7\u099f \u09a6\u0996\u09b2 \u0995\u09f0\u09be\u09f0 \u09ac\u09bf\u09aa\u09f0\u09c0\u09a4\u09c7 \u09b9\u09f0\u09cd\u09b7\u09be\u09b2 \u09aa\u09c7\u099f\u09c7\u09b2"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000352",
+   "language": "asm",
+   "lines": [
+    "\u0986\u09f0\u09c1 \u09ae\u09b9\u09ae\u09cd\u09ae\u09a6 \u099b\u09bf\u09f0\u09be\u099c\u09c7 \u09a6\u09c1\u099f\u09be\u0995\u09c8 \u0989\u0987\u0995\u09c7\u099f \u09a6\u0996\u09b2 \u0995\u09f0\u09c7\u0964 \u0997\u09cd\u09b2\u09c7\u09a8 \u09ae\u09c7\u0995\u09cd\u09b8\u09c1\u09f1\u09c7\u09b2\u09c7 \u09ae\u09c7\u09a8 \u0985\u09ac\u09cd\u200c \u09a6\u09be \u09ae\u09c7\u099a\u09f0 \u09aa\u09c1\u09f0\u09b8\u09cd\u0995\u09be\u09f0 \u09b2\u09be\u09ad \u0995\u09f0\u09c7\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000353",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000354",
+   "language": "asm",
+   "lines": [
+    "\u0986\u099c\u09bf \u09ae\u09c1\u09ae\u09cd\u09ac\u09be\u0987\u09a4 \u09b9'\u09ac\u09b2\u0997\u09c0\u09af\u09bc\u09be \u0986\u0987 \u09aa\u09bf \u098f\u09b2\u09f0 \u098f\u0996\u09a8 \u0996\u09c7\u09b2\u09a4 \u09f0\u09be\u099c\u09b8\u09cd\u09a5\u09be\u09a8 \u09f0\u09af\u09bc\u09c7\u09b2\u099b\u09f0 \u09ac\u09bf\u09f0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09a6\u09bf\u09b2\u09cd\u09b2\u09c0 \u0995\u09c7\u09aa\u09bf\u099f\u09c7\u09b2\u099b\u09c7"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000355",
+   "language": "asm",
+   "lines": [
+    "\u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09cd\u09ac\u09a8\u09cd\u09a6\u09cd\u09ac\u09a4\u09be \u0986\u0997\u09ac\u09a2\u09bc\u09be\u09ac\u0964"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000356",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000357",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000358",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000359",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000360",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000361",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000362",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000363",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000364",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000365",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000366",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000367",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000368",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000369",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000370",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000371",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000372",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000373",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000374",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000375",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000376",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000377",
+   "language": "asm",
+   "lines": [
+    "\u09a4\u09be \u09a4\u098f\u09bf\u09be\u098f"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000378",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000379",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000380",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000381",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000382",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000383",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000384",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000385",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000386",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000387",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000388",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000389",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000390",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000391",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000392",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000393",
+   "language": "asm",
+   "lines": [
+    "\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6\u09e6"
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.880",
+   "id": "f000394",
+   "language": "asm",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "577.880",
+   "children": [],
+   "end": "577.920",
+   "id": "f000395",
+   "language": "asm",
+   "lines": [
+    "\u09b8\u09c2\u09ae\u09cd\u09ae\u09a8\u09cd\u09a4"
+   ]
+  }
+ ]
+}

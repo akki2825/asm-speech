@@ -1,0 +1,27 @@
+#+TITLE: asm-speech
+
+Contains scripts for creating English and Assamese speech dataset.
+
+** Installation
+
+Install [[https://github.com/espeak-ng/espeak-ng][Espeak-ng]] and [[https://ffmpeg.org/download.html][FFmpeg]]
+
+Use Python3.6+
+#+BEGIN_SRC
+pip install -r requirements.txt
+#+END_SRC
+
+** Running
+*** Create Syncmaps
+
+#+BEGIN_SRC
+ python create_syncmap.py --audio-file <absolute_path_to_audio_file> --text-file <absolute_path_to_text_file> --syncmap-file syncmap.json
+#+END_SRC
+
+*** Audio chunking
+
+#+BEGIN_SRC
+python audio_chunk.py --audio-file <absolute_path_to_audio_file> --syncmap-file <absolute_path_to_syncmap_file>
+#+END_SRC
+
+Using [[https://github.com/ozdefir/finetuneas][finetuneas]] interface for fine tuning sync maps output.
